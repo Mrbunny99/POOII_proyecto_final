@@ -1,0 +1,18 @@
+C: Usuario creado
+R: Usuarios leídos
+U: Usuario actualizado
+D: Usuario eliminado
+D: Usuario eliminado
+C: Publicación creada
+R: Publicaciones leídas
+U: Publicación actualizada
+D: Publicación eliminada
+C: Usuario creado
+R: Usuarios leídos
+D: Usuario eliminado
+Exportación de tabla: usuarios
+Importación de historial
+Importación de historial iniciada
+Importación de historial completada
+Importación de historial iniciada
+Importación de historial completada

@@ -1,0 +1,12 @@
+Usuario creado: Anthony, Email: anthonyjosue2000@gmail.com
+Usuarios leídos
+Usuario actualizado: 1 a Amigo
+Usuario eliminado: 6
+Usuario eliminado: 5
+Publicación creada: Saludo
+Publicaciones leídas
+Publicación actualizada: 1 a Correr
+Publicación eliminada: 3
+Usuario creado: Theo, Email: theo@gmail.com
+Usuarios leídos
+Usuario eliminado: 7
